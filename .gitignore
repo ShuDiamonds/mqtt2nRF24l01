@@ -1,0 +1,5 @@
+*.json
+*.exe
+*.txt
+mqtt.beebotte.com.pem
+__pycache__
